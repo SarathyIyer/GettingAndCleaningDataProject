@@ -1,0 +1,13 @@
+Codebook
+=======================
+
+Following are the values in the text file 
+"Subject" -- Numeric value of the subject participated in the experiment. There are 30 subjects
+"ActivityName" -- There are 6 sets of activities LAYING,SITTING,STANDING,WALKING,WALKING_DOWNSTAIRS,WALKING_UPSTAIRS
+"ExperimentVariable - There are 17 types of variables
+            fBodyAcc, fBodyAccJerk, fBodyAccMag, fBodyBodyAccJerkMag, fBodyBodyGyroJerkMag, fBodyBodyGyroMag, fBodyGyro,tBodyAcc, tBodyAccJerk 
+			tBodyAccJerkMag,tBodyAccMag,tBodyGyro,tBodyGyroJerk,tBodyGyroJerkMag,tBodyGyroMag,tGravityAcc,tGravityAccMag 
+"ExperimentValueType" - mean, avg  (mean)
+					  std ( standard deviation)
+"ExperimentVariableAxis" - X,Y,Z or NA
+"Mean" - Value of the average for each subject, avtivityname,experimentvariable, experimentvaluetype,ExperimentVariableAxis
