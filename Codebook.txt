@@ -11,3 +11,6 @@ Following are the values in the text file
 					  std ( standard deviation)
 "ExperimentVariableAxis" - X,Y,Z or NA
 "Mean" - Value of the average for each subject, avtivityname,experimentvariable, experimentvaluetype,ExperimentVariableAxis
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
